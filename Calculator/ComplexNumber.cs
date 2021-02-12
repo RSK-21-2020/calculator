@@ -38,6 +38,8 @@ namespace Calculator
             return new ComplexNumber((a1 * a2 + b1 * b2)/(a2 * a2 + b2 * b2), (a2 * b1 - a1 * b2)/(a2 * a2 + b2 * b2));
         }
 
+        public override string ToString() => real + "" + (imagine < 0 ? " - " + (-imagine) : " + " + imagine) + "i";
+
         // public static int power(int x, int y)
         // {
         //     if (y == 1)
