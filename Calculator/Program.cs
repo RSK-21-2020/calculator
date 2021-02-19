@@ -1,8 +1,7 @@
 ﻿using System;
-using System.Collections.Generic;
 
 namespace Calculator {
-    internal class Program {
+    public class Program {
         private static void Main(string[] args) {
             // string currentRawPart = "";
             println("Введите первое число:");
@@ -35,6 +34,5 @@ namespace Calculator {
         }
 
         public static void println(Object obj) => Console.WriteLine(obj.ToString());
-        public static void print(Object obj) => Console.Write(obj.ToString());
     }
 }
