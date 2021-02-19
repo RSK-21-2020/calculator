@@ -1,9 +1,10 @@
 using System.Collections.Generic;
+using System.Collections.Immutable;
 
 namespace Calculator {
     public class ExpressionPart {
         public string rawPart { get; private set; }
-        public List<AddableItem> expression { get; private set; }
+        public ImmutableList<AddableItem> expression { get; private set; }
 
         public ExpressionPart(string rawPart) {
             this.rawPart = rawPart;
@@ -28,7 +29,7 @@ namespace Calculator {
                     addToList(rawElemList, elem, true);
                 }
             }
-            expression = rawElemList;
+            expression = rawElemList.ToImmutableList();
         }
         
         private static void addToList(List<AddableItem> list, string elem, bool isNotNegative) {
