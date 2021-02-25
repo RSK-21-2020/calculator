@@ -1,0 +1,11 @@
+D:\WORK\Stud\C_examples\RSK_2_21_Lect1\RSK_2_21_L1_WF\bin\Debug\RSK_2_21_L1_WF.exe.config
+D:\WORK\Stud\C_examples\RSK_2_21_Lect1\RSK_2_21_L1_WF\bin\Debug\RSK_2_21_L1_WF.exe
+D:\WORK\Stud\C_examples\RSK_2_21_Lect1\RSK_2_21_L1_WF\bin\Debug\RSK_2_21_L1_WF.pdb
+D:\WORK\Stud\C_examples\RSK_2_21_Lect1\RSK_2_21_L1_WF\obj\Debug\RSK_2_21_L1_WF.csprojAssemblyReference.cache
+D:\WORK\Stud\C_examples\RSK_2_21_Lect1\RSK_2_21_L1_WF\obj\Debug\RSK_2_21_L1_WF.Form1.resources
+D:\WORK\Stud\C_examples\RSK_2_21_Lect1\RSK_2_21_L1_WF\obj\Debug\RSK_2_21_L1_WF.Properties.Resources.resources
+D:\WORK\Stud\C_examples\RSK_2_21_Lect1\RSK_2_21_L1_WF\obj\Debug\RSK_2_21_L1_WF.csproj.GenerateResource.cache
+D:\WORK\Stud\C_examples\RSK_2_21_Lect1\RSK_2_21_L1_WF\obj\Debug\RSK_2_21_L1_WF.csproj.CoreCompileInputs.cache
+D:\WORK\Stud\C_examples\RSK_2_21_Lect1\RSK_2_21_L1_WF\obj\Debug\RSK_2_21_L1_WF.exe
+D:\WORK\Stud\C_examples\RSK_2_21_Lect1\RSK_2_21_L1_WF\obj\Debug\RSK_2_21_L1_WF.pdb
+D:\WORK\Stud\C_examples\RSK_2_21_Lect1\RSK_2_21_L1_WF\obj\Debug\RSK_2_21_L1_WF.FormAbout.resources

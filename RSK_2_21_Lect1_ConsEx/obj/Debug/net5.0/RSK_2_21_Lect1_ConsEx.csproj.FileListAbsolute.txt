@@ -1,0 +1,16 @@
+D:\WORK\Stud\C_examples\RSK_2_21_Lect1\RSK_2_21_Lect1_ConsEx\bin\Debug\net5.0\RSK_2_21_Lect1_ConsEx.exe
+D:\WORK\Stud\C_examples\RSK_2_21_Lect1\RSK_2_21_Lect1_ConsEx\bin\Debug\net5.0\RSK_2_21_Lect1_ConsEx.deps.json
+D:\WORK\Stud\C_examples\RSK_2_21_Lect1\RSK_2_21_Lect1_ConsEx\bin\Debug\net5.0\RSK_2_21_Lect1_ConsEx.runtimeconfig.json
+D:\WORK\Stud\C_examples\RSK_2_21_Lect1\RSK_2_21_Lect1_ConsEx\bin\Debug\net5.0\RSK_2_21_Lect1_ConsEx.runtimeconfig.dev.json
+D:\WORK\Stud\C_examples\RSK_2_21_Lect1\RSK_2_21_Lect1_ConsEx\bin\Debug\net5.0\RSK_2_21_Lect1_ConsEx.dll
+D:\WORK\Stud\C_examples\RSK_2_21_Lect1\RSK_2_21_Lect1_ConsEx\bin\Debug\net5.0\ref\RSK_2_21_Lect1_ConsEx.dll
+D:\WORK\Stud\C_examples\RSK_2_21_Lect1\RSK_2_21_Lect1_ConsEx\bin\Debug\net5.0\RSK_2_21_Lect1_ConsEx.pdb
+D:\WORK\Stud\C_examples\RSK_2_21_Lect1\RSK_2_21_Lect1_ConsEx\obj\Debug\net5.0\RSK_2_21_Lect1_ConsEx.csprojAssemblyReference.cache
+D:\WORK\Stud\C_examples\RSK_2_21_Lect1\RSK_2_21_Lect1_ConsEx\obj\Debug\net5.0\RSK_2_21_Lect1_ConsEx.GeneratedMSBuildEditorConfig.editorconfig
+D:\WORK\Stud\C_examples\RSK_2_21_Lect1\RSK_2_21_Lect1_ConsEx\obj\Debug\net5.0\RSK_2_21_Lect1_ConsEx.AssemblyInfoInputs.cache
+D:\WORK\Stud\C_examples\RSK_2_21_Lect1\RSK_2_21_Lect1_ConsEx\obj\Debug\net5.0\RSK_2_21_Lect1_ConsEx.AssemblyInfo.cs
+D:\WORK\Stud\C_examples\RSK_2_21_Lect1\RSK_2_21_Lect1_ConsEx\obj\Debug\net5.0\RSK_2_21_Lect1_ConsEx.csproj.CoreCompileInputs.cache
+D:\WORK\Stud\C_examples\RSK_2_21_Lect1\RSK_2_21_Lect1_ConsEx\obj\Debug\net5.0\RSK_2_21_Lect1_ConsEx.dll
+D:\WORK\Stud\C_examples\RSK_2_21_Lect1\RSK_2_21_Lect1_ConsEx\obj\Debug\net5.0\ref\RSK_2_21_Lect1_ConsEx.dll
+D:\WORK\Stud\C_examples\RSK_2_21_Lect1\RSK_2_21_Lect1_ConsEx\obj\Debug\net5.0\RSK_2_21_Lect1_ConsEx.pdb
+D:\WORK\Stud\C_examples\RSK_2_21_Lect1\RSK_2_21_Lect1_ConsEx\obj\Debug\net5.0\RSK_2_21_Lect1_ConsEx.genruntimeconfig.cache

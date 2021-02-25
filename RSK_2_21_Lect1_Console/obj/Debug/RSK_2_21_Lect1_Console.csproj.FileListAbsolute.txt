@@ -1,0 +1,7 @@
+D:\WORK\Stud\C_examples\RSK_2_21_Lect1\RSK_2_21_Lect1_Console\bin\Debug\RSK_2_21_Lect1_Console.exe.config
+D:\WORK\Stud\C_examples\RSK_2_21_Lect1\RSK_2_21_Lect1_Console\bin\Debug\RSK_2_21_Lect1_Console.exe
+D:\WORK\Stud\C_examples\RSK_2_21_Lect1\RSK_2_21_Lect1_Console\bin\Debug\RSK_2_21_Lect1_Console.pdb
+D:\WORK\Stud\C_examples\RSK_2_21_Lect1\RSK_2_21_Lect1_Console\obj\Debug\RSK_2_21_Lect1_Console.csproj.CoreCompileInputs.cache
+D:\WORK\Stud\C_examples\RSK_2_21_Lect1\RSK_2_21_Lect1_Console\obj\Debug\RSK_2_21_Lect1_Console.exe
+D:\WORK\Stud\C_examples\RSK_2_21_Lect1\RSK_2_21_Lect1_Console\obj\Debug\RSK_2_21_Lect1_Console.pdb
+D:\WORK\Stud\C_examples\RSK_2_21_Lect1\RSK_2_21_Lect1_Console\obj\Debug\RSK_2_21_Lect1_Console.csprojAssemblyReference.cache

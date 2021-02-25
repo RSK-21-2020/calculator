@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "RSK_2_21_Lect1_ConsEx/1.0.0": {
+        "runtime": {
+          "RSK_2_21_Lect1_ConsEx.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "RSK_2_21_Lect1_ConsEx/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
