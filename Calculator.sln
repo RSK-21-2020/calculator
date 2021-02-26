@@ -4,7 +4,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calculator", "Calculator\Ca
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test", "Test\Test.csproj", "{6FED40C0-DD5F-4821-A0E2-D647EE9A8032}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GUI", "GUI\GUI.csproj", "{010E3FE5-E072-4FF9-A62A-A9A19052B26E}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GUI", "GUI\GUI.csproj", "{B4148E00-7037-4937-B0D7-AA8295E9DD5A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -20,9 +20,9 @@ Global
 		{6FED40C0-DD5F-4821-A0E2-D647EE9A8032}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6FED40C0-DD5F-4821-A0E2-D647EE9A8032}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6FED40C0-DD5F-4821-A0E2-D647EE9A8032}.Release|Any CPU.Build.0 = Release|Any CPU
-		{010E3FE5-E072-4FF9-A62A-A9A19052B26E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{010E3FE5-E072-4FF9-A62A-A9A19052B26E}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{010E3FE5-E072-4FF9-A62A-A9A19052B26E}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{010E3FE5-E072-4FF9-A62A-A9A19052B26E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B4148E00-7037-4937-B0D7-AA8295E9DD5A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B4148E00-7037-4937-B0D7-AA8295E9DD5A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B4148E00-7037-4937-B0D7-AA8295E9DD5A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B4148E00-7037-4937-B0D7-AA8295E9DD5A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
