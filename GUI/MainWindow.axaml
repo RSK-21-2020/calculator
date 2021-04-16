@@ -2,8 +2,16 @@
         xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
         xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
-        mc:Ignorable="d" d:DesignWidth="800" d:DesignHeight="450"
+        mc:Ignorable="d" d:DesignWidth="800" d:DesignHeight="600"
+        MaxWidth="800"
+        MaxHeight="600"
         x:Class="GUI.MainWindow"
         Title="GUI">
-    Welcome to Avalonia!
+    <Grid ColumnDefinitions="100,1.5*,4*,*,*,*,*,*,*,*" RowDefinitions="Auto,Auto,Auto"  Margin="4">
+        <TextBox Grid.Row="1" Grid.Column="0" Name="input_num1"></TextBox>
+        <ComboBox Grid.Row="1" Grid.Column="3" Name="select_action" Items="+-/*"></ComboBox>
+        <TextBox Grid.Row="1" Grid.Column="6" Grid.ColumnSpan="2" Name="input_num2"></TextBox>
+        <Button Grid.Row="1" Grid.Column="9" Name="button_calculate" Click="onCalculateButtonClicked">Calculate</Button>
+        <TextBox Grid.Row="2" Grid.Column="1" Name="output_num">null</TextBox>
+    </Grid>
 </Window>
